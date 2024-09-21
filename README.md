@@ -1,6 +1,6 @@
 # CodeLab
 [Create an interactive Dice Roller app](https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app?continue=https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2&hl=ja#0)
-# まとめ1
+# Summary1
 - コンポーズ可能な関数を定義する。
 - Composition でレイアウトを作成する。
 - Button コンポーザブルでボタンを作成します。
@@ -10,7 +10,7 @@
 - remember コンポーザブルを使用して、Composition 内のオブジェクトをメモリに保存する。
 - mutableStateOf() 関数で UI を更新して、オブザーバブルを作成する。
 
-# まとめ2
+# Summary2
 - アプリにデバッガをアタッチする
 - デバッガをアタッチしたアプリを起動する
 - Debugger ペインについて理解する
@@ -20,3 +20,7 @@
 - Step Over ボタンを使用する
 - Step Out ボタンを使用する
 - デバッガで変数を検査する
+ 
+# Screenshot
+<img src="https://github.com/user-attachments/assets/39692837-28ea-4122-8c71-98e4b16339ca" width="300">
+  
